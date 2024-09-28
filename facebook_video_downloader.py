@@ -1,3 +1,6 @@
+#Developer by: @DevPhant0m
+#Channel: https://t.me/TEAM_CHICO_CP
+
 import os
 import subprocess
 import sys
