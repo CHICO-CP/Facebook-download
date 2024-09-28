@@ -11,7 +11,7 @@ Before running the script, ensure you have Python (version 3.6 or higher) and `p
 1. **Clone the repository or download the script file:**
 
    ```bash
-   git clone https://github.com/your-username/facebook-video-downloader.git
+   git clone https://github.com/CHICO-CP/Facebook-download.git
    cd facebook-video-downloader
    ```
 Or simply download the facebook_video_downloader.py file.
